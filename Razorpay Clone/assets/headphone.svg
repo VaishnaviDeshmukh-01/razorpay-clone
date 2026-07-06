@@ -1,0 +1,23 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <!-- Headband -->
+  <path d="M4 12a8 8 0 0 1 16 0"/>
+
+  <!-- Left earcup -->
+  <rect x="3" y="11" width="4" height="8" rx="1"/>
+
+  <!-- Right earcup -->
+  <rect x="17" y="11" width="4" height="8" rx="1"/>
+
+  <!-- Microphone -->
+  <path d="M21 19a2 2 0 0 1-2 2h-3"/>
+</svg>
